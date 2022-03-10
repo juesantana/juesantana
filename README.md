@@ -2,7 +2,7 @@
 
 👩‍💻 Atualmente trabalho como Técnico Administrativo no Itaú-Unibanco, porém estou a procura de uma mudança de carreira para a área da tecnologia.
 
-📚 Estou no final do 2º ano do Bacharelado em Ciência e Tecnologia/ Engenharia Aeroespacial na Universidade Federal do ABC e sou aluna da turma On14 de Back-End - Todas Em Tech, oferecido pela {REPROGRAMA}.
+📚 Estou no 3º ano do Bacharelado em Ciência e Tecnologia/ Engenharia Aeroespacial na Universidade Federal do ABC e sou Desenvolvedora Back-end formada pela ultima turma do curso Todas Em Tech, oferecido pela {REPROGRAMA}.
 
 <div align="center">
   <a href="https://github.com/juesantana">
