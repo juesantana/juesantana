@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//github/github-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//git/git-original.svg">
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"src="https://i.picasion.com/pic91/7f7d13bdff3130c98e88b3255b48e12a.gif">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/7f7d13bdff3130c98e88b3255b48e12a.gif">
 </div>
   
  
